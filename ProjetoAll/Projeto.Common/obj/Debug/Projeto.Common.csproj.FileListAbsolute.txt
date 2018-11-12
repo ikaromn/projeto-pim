@@ -1,0 +1,12 @@
+C:\Users\reinaldo.silva\source\repos\ProjetoAll\Projeto.Common\bin\Debug\Projeto.Common.dll
+C:\Users\reinaldo.silva\source\repos\ProjetoAll\Projeto.Common\bin\Debug\Projeto.Common.pdb
+C:\Users\reinaldo.silva\source\repos\ProjetoAll\Projeto.Common\obj\Debug\Projeto.Common.csproj.CoreCompileInputs.cache
+C:\Users\reinaldo.silva\source\repos\ProjetoAll\Projeto.Common\obj\Debug\Projeto.Common.dll
+C:\Users\reinaldo.silva\source\repos\ProjetoAll\Projeto.Common\obj\Debug\Projeto.Common.pdb
+C:\Users\reinaldo.silva\source\repos\ProjetoAll\Projeto.Common\obj\Debug\Projeto.Common.csprojAssemblyReference.cache
+C:\Users\reinaldo.silva\Desktop\PimProjetoAll\ProjetoAll\Projeto.Common\bin\Debug\Projeto.Common.dll
+C:\Users\reinaldo.silva\Desktop\PimProjetoAll\ProjetoAll\Projeto.Common\bin\Debug\Projeto.Common.pdb
+C:\Users\reinaldo.silva\Desktop\PimProjetoAll\ProjetoAll\Projeto.Common\obj\Debug\Projeto.Common.csprojAssemblyReference.cache
+C:\Users\reinaldo.silva\Desktop\PimProjetoAll\ProjetoAll\Projeto.Common\obj\Debug\Projeto.Common.csproj.CoreCompileInputs.cache
+C:\Users\reinaldo.silva\Desktop\PimProjetoAll\ProjetoAll\Projeto.Common\obj\Debug\Projeto.Common.dll
+C:\Users\reinaldo.silva\Desktop\PimProjetoAll\ProjetoAll\Projeto.Common\obj\Debug\Projeto.Common.pdb
