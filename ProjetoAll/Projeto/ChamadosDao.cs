@@ -13,7 +13,7 @@ namespace Projeto
 {
     public class ChamadosDao//: IChamados
     {
-        SqlConnection sqlcon = new SqlConnection("Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=PIM;Data Source=NTB-SYS-003");
+        SqlConnection sqlcon = new SqlConnection("Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=PIM;Data Source=NTB-SYS-004");
 
         public List<ChamadosModel> ConsultaChamado(ChamadosModel model)
         {
@@ -172,7 +172,7 @@ namespace Projeto
         {
             bool ret = false;
             
-            SqlCommand command = new SqlCommand("UPDATE PIM.DBO.CHAMADOS SET STATUS='ATENDIDO' OPERADOR= @Operador ,MensagemFinal= @Mensagem_Final where idChamado=@IdChamado ", sqlcon);
+            SqlCommand command = new SqlCommand("UPDATE PIM.DBO.CHAMADOS SET STATUS='ATENDIDO', OPERADOR= @Operador ,MensagemFinal= @Mensagem_Final where idChamado=@IdChamado ", sqlcon);
                                                 
 
             command.Parameters.Add("@Operador", SqlDbType.VarChar).Value = model.Operador;
@@ -233,7 +233,7 @@ namespace Projeto
             bool ret = false;
             
 
-            SqlCommand command = new SqlCommand("UPDATE CHAMADOS SET OPERADOR=@Operador,status='CHAMADO EM ATENDIMENTO' MENSAGEM_ALT where idchamado=@idchamado", sqlcon);
+            SqlCommand command = new SqlCommand("UPDATE CHAMADOS SET OPERADOR=@Operador,status='CHAMADO EM ATENDIMENTO' ,mensagemalt='Chamado em Análise'  where idchamado=@idchamado", sqlcon);
 
 
             command.Parameters.Add("@IdChamado", SqlDbType.Int).Value = model.IdChamado;

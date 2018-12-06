@@ -90,14 +90,14 @@ namespace Projeto.Web2._0.Chamados
 
         protected void GrdChamados_PreRender(object sender, EventArgs e)
         {
-            try
-            {
-                this.GrdChamados.HeaderRow.TableSection = TableRowSection.TableHeader;
-            }
-            catch (Exception)
-            {
-                throw;
-            }
+            //try
+            //{
+            //    this.GrdChamados.HeaderRow.TableSection = TableRowSection.TableHeader;
+            //}
+            //catch (Exception)
+            //{
+            //    throw;
+            //}
 
 
         }

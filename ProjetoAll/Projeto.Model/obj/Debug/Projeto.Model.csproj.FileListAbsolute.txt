@@ -12,7 +12,7 @@ C:\Users\reinaldo.silva\Desktop\ProjetoAll\Projeto.Model\obj\Debug\Projeto.Model
 C:\Users\reinaldo.silva\Desktop\ProjetoAll\Projeto.Model\obj\Debug\Projeto.Model.pdb
 C:\Users\reinaldo.silva\Desktop\PimProjetoAll\ProjetoAll\Projeto.Model\bin\Debug\Projeto.Model.dll
 C:\Users\reinaldo.silva\Desktop\PimProjetoAll\ProjetoAll\Projeto.Model\bin\Debug\Projeto.Model.pdb
+C:\Users\reinaldo.silva\Desktop\PimProjetoAll\ProjetoAll\Projeto.Model\obj\Debug\Projeto.Model.csprojAssemblyReference.cache
 C:\Users\reinaldo.silva\Desktop\PimProjetoAll\ProjetoAll\Projeto.Model\obj\Debug\Projeto.Model.csproj.CoreCompileInputs.cache
 C:\Users\reinaldo.silva\Desktop\PimProjetoAll\ProjetoAll\Projeto.Model\obj\Debug\Projeto.Model.dll
 C:\Users\reinaldo.silva\Desktop\PimProjetoAll\ProjetoAll\Projeto.Model\obj\Debug\Projeto.Model.pdb
-C:\Users\reinaldo.silva\Desktop\PimProjetoAll\ProjetoAll\Projeto.Model\obj\Debug\Projeto.Model.csprojAssemblyReference.cache

@@ -40,9 +40,9 @@ namespace Projeto.Web2._0.Chamados
             cmbArea.DataTextField = "Area";
             cmbArea.DataBind();
 
-            cmbProblema.DataSource = cbb.PreencheCombo(3);
-            cmbProblema.DataValueField = "IdEmpresa";
-            cmbProblema.DataTextField = "Empresa";
+            cmbProblema.DataSource = cbb.PreencheCombo(2);
+            cmbProblema.DataValueField = "idProblema";
+            cmbProblema.DataTextField = "Problema";
             cmbProblema.DataBind();
 
             cmbEmpresa.DataSource = cbb.PreencheCombo(3);

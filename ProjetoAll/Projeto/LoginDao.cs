@@ -10,7 +10,7 @@ namespace Projeto.Dao
 {
     public class LoginDao
     {
-        SqlConnection sqlcon = new SqlConnection("Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=PIM;Data Source=NTB-SYS-003");
+        SqlConnection sqlcon = new SqlConnection("Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=PIM;Data Source=NTB-SYS-004");
 
         public bool FazerLoginDao()
         {

@@ -166,15 +166,15 @@ namespace Projeto.Web2._0.Chamados
 
         protected void GridRel_PreRender(object sender, EventArgs e)
         {
-            if (GridRel.DataSource!=null)
-            try
-            {
-                this.GridRel.HeaderRow.TableSection = TableRowSection.TableHeader;
-            }
-            catch (Exception)
-            {
-                throw;
-            }
+            if (GridRel.DataSource != null)
+                try
+                {
+                    this.GridRel.HeaderRow.TableSection = TableRowSection.TableHeader;
+                }
+                catch (Exception)
+                {
+                    throw;
+                }
         }
     }
 }
